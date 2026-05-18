@@ -1,0 +1,30 @@
+# AI_Project_Example .gitignore
+
+# === 始终忽略 ===
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+node_modules/
+*.egg-info/
+dist/
+build/
+.cache/
+*.log
+
+# === AI 工具相关 ===
+.hermes/
+.cursor/
+.vscode/
+
+# === 运行数据 ===
+data/
+tools/.evolve_state.json
+
+# === 项目级别 ===
+# 只跟踪 workspace 入口说明，不跟踪具体项目内容
+workspace/*/
+!workspace/README.md
