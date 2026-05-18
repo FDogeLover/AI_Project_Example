@@ -7,7 +7,7 @@ daily_report.py
 
 示例:
   python tools/scripts/daily_report.py            # 今天
-  python tools/scripts/daily_report.py 2025-05-15 # 指定日期
+  python tools/scripts/daily_report.py 2026-05-15 # 指定日期
 """
 
 import sys

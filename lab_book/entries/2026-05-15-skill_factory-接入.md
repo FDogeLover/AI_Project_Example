@@ -1,4 +1,4 @@
-# 2025-05-15 skill_factory 项目接入
+# 2026-05-15 skill_factory 项目接入
 
 ## 项目基本信息
 - 名称: skill_factory
